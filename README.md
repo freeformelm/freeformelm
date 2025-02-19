@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=freeformelm" alt="freeformelm" /></a> </p>
 
-- 🔭 I’m currently working at **DLR GROUP(https://www.dlrgroup.com)**
+- 🔭 I’m currently working at [**DLR GROUP**](https://www.dlrgroup.com) as Senior Data Engineer.
 
 - 🌱 I’m currently learning **Databricks**
 
